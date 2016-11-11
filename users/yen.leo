@@ -15,7 +15,7 @@
 <v t="leo.20151212173315.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
-<v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
+<v t="amd.20160106095324.1"><vh>@path ./../</vh>
 <v t="leo.20151213173830.1"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
@@ -55,7 +55,16 @@
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
-<v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
+<v t="amd.20160727120222.1"><vh>@edit other.md</vh></v>
+<v t="leo.20161111110921.1"><vh>@edit 20160916.md</vh></v>
+<v t="leo.20161111110924.1"><vh>@edit 20160923.md</vh></v>
+<v t="leo.20161111110929.1"><vh>@edit 20160930.md</vh></v>
+<v t="leo.20161111110923.1"><vh>@edit 20161007.md</vh></v>
+<v t="leo.20161111110927.1"><vh>@edit 20161014.md</vh></v>
+<v t="leo.20161111110926.1"><vh>@edit 20161021.md</vh></v>
+<v t="leo.20161111110922.1"><vh>@edit 20161028.md</vh></v>
+<v t="leo.20161111110920.1"><vh>@edit 20161104.md</vh></v>
+<v t="leo.20161111111244.1"><vh>@edit 20161111.md</vh></v>
 </v>
 </v>
 </v>
