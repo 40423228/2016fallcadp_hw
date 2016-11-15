@@ -33,7 +33,7 @@
 <v t="amd.20151215154950.2" a="E"><vh>@path templates</vh>
 <v t="amd.20151215154950.3"><vh>@edit base.html</vh></v>
 <v t="amd.20151215154950.4"><vh>@edit search.html</vh></v>
-<v t="amd.20151215162536.1" a="E"><vh>@path includes</vh>
+<v t="amd.20151215162536.1"><vh>@path includes</vh>
 <v t="amd.20151215162510.1"><vh>@edit sidebar.html</vh></v>
 </v>
 <v t="amd.20151215154950.5"><vh>@edit tags.html</vh></v>
@@ -42,7 +42,7 @@
 </v>
 <v t="amd.20151215170326.1"><vh>以下在修改或查驗 plugin 目錄下的檔案</vh></v>
 <v t="amd.20151215154225.1"><vh>@path plugin</vh>
-<v t="amd.20151215154238.1" a="E"><vh>@path tipue_search</vh>
+<v t="amd.20151215154238.1"><vh>@path tipue_search</vh>
 <v t="amd.20151215154248.1"><vh>@edit tipue_search.py</vh></v>
 </v>
 </v>
@@ -65,6 +65,7 @@
 <v t="leo.20161111110920.1"><vh>@edit 20161104.md</vh></v>
 <v t="leo.20161111111244.1"><vh>@edit 20161111.md</vh></v>
 <v t="leo.20161115162801.1"><vh>@edit 20161118.md</vh></v>
+<v t="leo.20161115212150.1"><vh>@edit 20161125.md</vh></v>
 </v>
 </v>
 </v>
