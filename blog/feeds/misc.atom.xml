@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423228個人網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2016-12-30T12:00:00+08:00</updated><entry><title>20161230W16</title><link href="./20161230w16.html" rel="alternate"></link><published>2016-12-30T12:00:00+08:00</published><updated>2016-12-30T12:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2016-12-30:./20161230w16.html</id><summary type="html"></summary><category term="上課內容"></category></entry><entry><title>20161209W13</title><link href="./20161209w13.html" rel="alternate"></link><published>2016-12-09T12:00:00+08:00</published><updated>2016-12-09T12:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2016-12-09:./20161209w13.html</id><summary type="html">&lt;iframe src="./../data/W13_1.html" width="800" height="600"&gt;&lt;/iframe&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423228個人網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2016-12-30T12:00:00+08:00</updated><entry><title>20161230W16</title><link href="./20161230w16.html" rel="alternate"></link><published>2016-12-30T12:00:00+08:00</published><updated>2016-12-30T12:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2016-12-30:./20161230w16.html</id><summary type="html">&lt;p&gt;oneshape繪圖、組裝
+零件:
+&lt;img src="./../data/01.jpg" width="800" /&gt;
+&lt;img src="./../data/02.jpg" width="800" /&gt;
+&lt;img src="./../data/03.jpg" width="800" /&gt;
+&lt;img src="./../data/04.jpg" width="800" /&gt;
+&lt;img src="./../data/05.jpg" width="800" /&gt;
+&lt;img src="./../data/06.jpg" width="800" /&gt;
+&lt;img src="./../data/07.jpg" width="800" /&gt;
+&lt;img src="./../data/08.jpg" width="800" /&gt;&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161209W13</title><link href="./20161209w13.html" rel="alternate"></link><published>2016-12-09T12:00:00+08:00</published><updated>2016-12-09T12:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2016-12-09:./20161209w13.html</id><summary type="html">&lt;iframe src="./../data/W13_1.html" width="800" height="600"&gt;&lt;/iframe&gt;
 
 &lt;iframe src="./../data/W13_2.html" width="800" height="600"&gt;&lt;/iframe&gt;
 
